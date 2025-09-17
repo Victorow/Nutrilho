@@ -1,0 +1,16 @@
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/dto/RegisterDto.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/entity/PerfilPaciente.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/repository/UsuarioRepository.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/service/AuthService.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/NutrilhoApplication.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/entity/StatusVerificacao.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/config/JwtAuthenticationFilter.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/dto/AuthResponseDto.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/repository/PerfilPacienteRepository.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/config/ApplicationConfig.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/config/SecurityConfig.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/dto/LoginDto.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/controller/AuthController.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/service/JwtService.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/entity/Role.java
+/home/victor/Documentos/Projetos/Nutrilho/backend/src/main/java/com/nutrilho/project/entity/Usuario.java
